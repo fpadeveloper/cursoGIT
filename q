@@ -1,0 +1,36 @@
+[33m14c147b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mlogin[m[33m)[m HEAD@{0}: merge login: Fast-forward
+[33m11c3605[m HEAD@{1}: checkout: moving from login to main
+[33m14c147b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mlogin[m[33m)[m HEAD@{2}: commit (merge): resolucion de conflictos
+[33m5d37d15[m HEAD@{3}: checkout: moving from main to login
+[33m11c3605[m HEAD@{4}: commit: cambio py3 desde main
+[33m727905e[m HEAD@{5}: checkout: moving from login to main
+[33m5d37d15[m HEAD@{6}: commit: cambio py3 desde login
+[33mc23f5fa[m HEAD@{7}: merge main: Merge made by the 'ort' strategy.
+[33m5fc4dba[m HEAD@{8}: checkout: moving from main to login
+[33m727905e[m HEAD@{9}: commit: Git 3 v2
+[33m487ee84[m HEAD@{10}: checkout: moving from login to main
+[33m5fc4dba[m HEAD@{11}: checkout: moving from main to login
+[33m487ee84[m HEAD@{12}: checkout: moving from login to main
+[33m5fc4dba[m HEAD@{13}: checkout: moving from main to login
+[33m487ee84[m HEAD@{14}: checkout: moving from login to main
+[33m5fc4dba[m HEAD@{15}: commit: inluir nueva rama login
+[33m487ee84[m HEAD@{16}: checkout: moving from main to login
+[33m487ee84[m HEAD@{17}: checkout: moving from 8d1cab419a557853e2da990a341f3200fa3479d4 to main
+[33m8d1cab4[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{18}: checkout: moving from main to tags/clase_1
+[33m487ee84[m HEAD@{19}: reset: moving to 487ee844aa024c8e31cdc3d8ef59699b8aef142f
+[33m8d1cab4[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{20}: checkout: moving from 487ee844aa024c8e31cdc3d8ef59699b8aef142f to main
+[33m487ee84[m HEAD@{21}: checkout: moving from 8d1cab419a557853e2da990a341f3200fa3479d4 to 487ee844aa024c8e31cdc3d8ef59699b8aef142f
+[33m8d1cab4[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{22}: checkout: moving from 487ee844aa024c8e31cdc3d8ef59699b8aef142f to tags/clase_1
+[33m487ee84[m HEAD@{23}: commit: este es mi sexto commit
+[33m8d1cab4[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{24}: reset: moving to 8d1cab4
+[33mf492d9d[m HEAD@{25}: checkout: moving from 8d1cab419a557853e2da990a341f3200fa3479d4 to f492d9d
+[33m8d1cab4[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{26}: checkout: moving from 827b8c070de45818f14de17ca5980a82a9fcd9a9 to 8d1cab4
+[33m827b8c0[m HEAD@{27}: reset: moving to 827b8c0
+[33m8d1cab4[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{28}: checkout: moving from b56a3510388f782ce8c5fc0603aa679f30c70176 to 8d1cab419a557853e2da990a341f3200fa3479d4
+[33mb56a351[m HEAD@{29}: checkout: moving from main to b56a3510388f782ce8c5fc0603aa679f30c70176
+[33m8d1cab4[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{30}: commit: cambios de hoy 25 ago a hellopy2
+[33m2320ef5[m HEAD@{31}: commit: Se añade el .gitignore
+[33m827b8c0[m HEAD@{32}: commit: se actualiza el texto del print
+[33mf492d9d[m HEAD@{33}: reset: moving to HEAD
+[33mf492d9d[m HEAD@{34}: commit: este es el 2 desde el terminal
+[33mb56a351[m HEAD@{35}: commit (initial): Este es mi primer Commit para el curso
